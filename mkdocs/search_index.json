@@ -1,0 +1,34 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "About\n\n\n\n\n\u201cIf the path before you is clear, you\u2019re probably on someone else\u2019s.\u201d\n\u2015 C.G. Jung\n\n\n\n\nStrategic delivery consultant who works with ambitious teams to improve the quality of their delivery and processes. A veteran Solutions Architect from Microsoft with a passions for IT Enabled Business change.\n\n\nStraight-talking and passionate about Software.\n\n\nArchitect\n\n\nThe Science and Art of creating Software that matters.\n\n\nCurious\n\n\n\n\n\u201cI have no special talents. I am only passionately curious.\u201d\n\u2015 Albert Einstein\n\n\n\n\nCreative\n\n\n\n\n\u201cImagination is everything. It is the preview of life's coming attractions.\u201d\n\u2015 Albert Einstein\n\n\n\n\nDeliver\n\n\n\n\n\u201cYou are what you do, not what you say you'll do.\u201d \n\u2015 C.G. Jung", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#about", 
+            "text": "\u201cIf the path before you is clear, you\u2019re probably on someone else\u2019s.\u201d\n\u2015 C.G. Jung   Strategic delivery consultant who works with ambitious teams to improve the quality of their delivery and processes. A veteran Solutions Architect from Microsoft with a passions for IT Enabled Business change.  Straight-talking and passionate about Software.", 
+            "title": "About"
+        }, 
+        {
+            "location": "/#architect", 
+            "text": "The Science and Art of creating Software that matters.", 
+            "title": "Architect"
+        }, 
+        {
+            "location": "/#curious", 
+            "text": "\u201cI have no special talents. I am only passionately curious.\u201d\n\u2015 Albert Einstein", 
+            "title": "Curious"
+        }, 
+        {
+            "location": "/#creative", 
+            "text": "\u201cImagination is everything. It is the preview of life's coming attractions.\u201d\n\u2015 Albert Einstein", 
+            "title": "Creative"
+        }, 
+        {
+            "location": "/#deliver", 
+            "text": "\u201cYou are what you do, not what you say you'll do.\u201d \n\u2015 C.G. Jung", 
+            "title": "Deliver"
+        }
+    ]
+}
